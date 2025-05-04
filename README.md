@@ -35,7 +35,7 @@ assets/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/recipe_swipe_cards.git
+   git clone https://github.com/bektas-sari/recipe_swipe_cards.git
    cd recipe_swipe_cards
    ```
 
