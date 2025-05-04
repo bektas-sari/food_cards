@@ -85,7 +85,7 @@ _Add screenshots here after testing on device._
 
 ## 📄 License
 
-MIT License © 2024 Bektas Sari  
+MIT License © 2025 Bektas Sari  
 Use, modify, and distribute freely.
 
 
