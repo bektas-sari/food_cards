@@ -1,4 +1,4 @@
-# 🍽️ Recipe Swipe Cards
+# 🍽️ Recipe Swipe Cards (Flutter APP)
 
 A modern and elegant Flutter app that displays recipe cards with swipe gestures like Tinder. 
 Each card features an image, title, and description. Perfect for practicing layout, gesture detection, and asset handling in Flutter.
@@ -88,5 +88,3 @@ _Add screenshots here after testing on device._
 MIT License © 2025 Bektas Sari  
 Use, modify, and distribute freely.
 
-
-A modern Flutter app that showcases recipe cards with swipe-to-dismiss interactions. Uses local assets for images and features clean, responsive UI design. Great for practicing gestures, layouts, and state management in Flutter.
